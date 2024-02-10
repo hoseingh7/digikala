@@ -1,0 +1,22 @@
+div.clear {
+  clear: both;
+}
+
+div.under-amz {
+  width: 100%;
+  height: 235px;
+}
+
+div.under-amz > div.under-amz-inner {
+  width: 100%;
+  height: inherit;
+  display: inline-block;
+  text-align: center;
+}
+
+div.under-amz > div.under-amz-inner > img {
+  width: 23.2%;
+  height: inherit;
+  border-radius: 10px;
+  margin: 0 2px;
+}

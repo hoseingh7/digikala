@@ -1,0 +1,38 @@
+div.digi-suggest {
+  font-family: IranYekan;
+}
+
+div.digi-suggest > div.digi-suggest-first-text {
+  margin: 20px;
+  text-align: center;
+  font-size: 20px;
+}
+
+div.digi-suggest > div.slider {
+  display: flex;
+  justify-content: center;
+}
+
+div.digi-suggest > div.slider .swiper {
+  width: 95%;
+  height: 311px;
+  margin-left: 0;
+  margin-right: 0;
+  border: 1px solid #f1f2f4;
+  border-radius: 20px;
+}
+
+div.digi-suggest > div.slider .swiper-slide {
+  text-align: center;
+  font-size: 14px;
+  height: calc((100% - 30px) / 2) !important;
+  width: 200px !important;
+  border: 1px solid #f1f2f4;
+}
+
+div.digi-suggest > div.slider img {
+  margin-top: 8px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: #cbcdd3;
+}

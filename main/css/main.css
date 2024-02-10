@@ -1,0 +1,20 @@
+@import "./partials/settings.css";
+@import './partials/header.css';
+@import './partials/top-category.css';
+@import './partials/top-slider.css';
+@import './partials/second-category.css';
+@import './partials/amazing-slider.css';
+@import './partials/amz-market.css';
+@import './partials/under-amz-market.css';
+@import './partials/digikala-category.css';
+@import './partials/digi-suggest.css';
+
+
+@font-face {
+    font-family: IranYekan;
+    src: url(../font/fa/iranyekanwebbold.cfb6e26c.eot);
+    src: url(../font/fa/iranyekanwebbold.cfb6e26c.otf);
+    src: url(../font/fa/iranyekanwebbold.cfb6e26c.ttf);
+    src: url(../font/fa/iranyekanwebbold.cfb6e26c.woff);
+    src: url(../font/fa/iranyekanwebbold.cfb6e26c.woff2);
+}
